@@ -24,7 +24,7 @@ body {
 
 header, main, footer {
     background-color: #00000033;
-    backdrop-filter: blur(30px);
+    backdrop-filter: blur(10px);
     margin-bottom: 15px;
     border-radius: 20px;
 }
@@ -81,7 +81,7 @@ main p {
 .project{
     display: inline-block;
     width: 35%;
-    backdrop-filter: blur(40px);
+    backdrop-filter: blur(20px);
     min-width: 250px;
     margin: 8px;
     border-radius: 20px;
