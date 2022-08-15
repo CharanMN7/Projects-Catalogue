@@ -80,7 +80,7 @@ main p {
     display: inline-block;
     width: 35%;
     backdrop-filter: blur(20px);
-    -webkit-background-color: #00000050;
+    -webkit-background-color: #00000070;
     background-color: #00000011;
     min-width: 250px;
     margin: 8px;
