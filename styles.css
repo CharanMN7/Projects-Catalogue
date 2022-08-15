@@ -25,6 +25,7 @@ body {
 header, main, footer {
     background-color: #00000033;
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     margin-bottom: 15px;
     border-radius: 20px;
 }
